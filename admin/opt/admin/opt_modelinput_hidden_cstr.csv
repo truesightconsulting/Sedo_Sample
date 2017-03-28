@@ -1,0 +1,20 @@
+"bdgt_id","dma1_name","chan1_name","client_id","chan1_id","dma1_id","sp_min_h","percent_max","sp_max_h"
+"144_1","National","Social",31,144,1,NULL,NULL,NULL
+"149_1","National","Network Radio",31,149,1,NULL,NULL,NULL
+"266_1","National","Email",31,266,1,NULL,NULL,NULL
+"285_1","National","SMS",31,285,1,NULL,NULL,NULL
+"291_1","National","Cable TV",31,291,1,NULL,NULL,NULL
+"292_1","National","Hispanic TV",31,292,1,NULL,NULL,NULL
+"293_1","National","Hispanic Radio",31,293,1,NULL,NULL,NULL
+"294_1","National","National Print",31,294,1,NULL,NULL,NULL
+"295_1","National","Cinema",31,295,1,NULL,NULL,NULL
+"296_1","National","Local Print",31,296,1,NULL,NULL,NULL
+"297_1","National","Dirent Mail",31,297,1,NULL,NULL,NULL
+"298_1","National","Hispanic Display",31,298,1,NULL,NULL,NULL
+"299_1","National","Search - Branded",31,299,1,NULL,NULL,NULL
+"300_1","National","Search - non Branded",31,300,1,NULL,NULL,NULL
+"301_1","National","Video",31,301,1,NULL,NULL,NULL
+"33_1","National","OOH",31,33,1,NULL,NULL,NULL
+"75_1","National","Display",31,75,1,NULL,NULL,NULL
+"88_1","National","Network TV",31,88,1,NULL,NULL,NULL
+"91_1","National","Local Radio",31,91,1,NULL,NULL,NULL
