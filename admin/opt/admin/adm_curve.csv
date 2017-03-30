@@ -1,0 +1,20 @@
+dma1_name,chan1_name,sales1_name,cpp,a,b,curvegroup_name,all_name
+National,Network TV,Gross Adds,1,16383.78751,2.18641E-07,weekly,overall
+National,Cable TV,Gross Adds,1,11840.87262,2.94E-07,weekly,overall
+National,Hispanic TV,Gross Adds,1,5627.592985,1.19E-06,weekly,overall
+National,Network Radio,Gross Adds,1,1363.275977,1.73E-06,weekly,overall
+National,Hispanic Radio,Gross Adds,1,788.4682911,7.58E-06,weekly,overall
+National,National Print,Gross Adds,1,1378.102602,2.78E-06,weekly,overall
+National,Cinema,Gross Adds,1,315.3610193,1.43E-05,weekly,overall
+National,Local Radio,Gross Adds,1,1192.091201,3.07E-06,weekly,overall
+National,Local Print,Gross Adds,1,1771.088008,1.53E-06,weekly,overall
+National,OOH,Gross Adds,1,1271.84226,2.26E-06,weekly,overall
+National,Dirent Mail,Gross Adds,1,2194.456487,1.63E-06,weekly,overall
+National,Email,Gross Adds,1,119.4294635,4.69E-05,weekly,overall
+National,SMS,Gross Adds,1,150.6516391,3.72E-05,weekly,overall
+National,Display,Gross Adds,1,8367.742446,2.73415E-07,weekly,overall
+National,Hispanic Display,Gross Adds,1,436.7281395,3.88E-06,weekly,overall
+National,Search - Branded,Gross Adds,1,1117.717899,2.24E-06,weekly,overall
+National,Search - non Branded,Gross Adds,1,2212.193911,1.31E-06,weekly,overall
+National,Video,Gross Adds,1,2671.322172,1.13E-06,weekly,overall
+National,Social,Gross Adds,1,1576.545558,2.42E-06,weekly,overall
