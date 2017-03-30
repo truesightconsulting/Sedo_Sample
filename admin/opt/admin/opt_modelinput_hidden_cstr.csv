@@ -1,20 +1,20 @@
 "bdgt_id","dma1_name","chan1_name","client_id","chan1_id","dma1_id","sp_min_h","percent_max","sp_max_h"
-"243_146","National","Network TV",50,243,146,NULL,NULL,NULL
-"244_146","National","Display",50,244,146,NULL,NULL,NULL
-"247_146","National","Local Radio",50,247,146,NULL,NULL,NULL
-"276_146","National","Network Radio",50,276,146,NULL,NULL,NULL
-"289_146","National","Social",50,289,146,NULL,NULL,NULL
-"410_146","National","Email",50,410,146,NULL,NULL,NULL
-"445_146","National","SMS",50,445,146,NULL,NULL,NULL
-"451_146","National","Cable TV",50,451,146,NULL,NULL,NULL
-"452_146","National","Hispanic TV",50,452,146,NULL,NULL,NULL
-"453_146","National","Hispanic Radio",50,453,146,NULL,NULL,NULL
-"454_146","National","National Print",50,454,146,NULL,NULL,NULL
-"455_146","National","Cinema",50,455,146,NULL,NULL,NULL
-"456_146","National","Local Print",50,456,146,NULL,NULL,NULL
-"457_146","National","Dirent Mail",50,457,146,NULL,NULL,NULL
-"458_146","National","Hispanic Display",50,458,146,NULL,NULL,NULL
-"459_146","National","Search - Branded",50,459,146,NULL,NULL,NULL
-"460_146","National","Search - non Branded",50,460,146,NULL,NULL,NULL
-"461_146","National","Video",50,461,146,NULL,NULL,NULL
-"6_146","National","OOH",50,6,146,NULL,NULL,NULL
+"243_146","National","Network TV",54,243,146,NULL,NULL,NULL
+"244_146","National","Display",54,244,146,NULL,NULL,NULL
+"247_146","National","Local Radio",54,247,146,NULL,NULL,NULL
+"276_146","National","Network Radio",54,276,146,NULL,NULL,NULL
+"289_146","National","Social",54,289,146,NULL,NULL,NULL
+"410_146","National","Email",54,410,146,NULL,NULL,NULL
+"445_146","National","SMS",54,445,146,NULL,NULL,NULL
+"451_146","National","Cable TV",54,451,146,NULL,NULL,NULL
+"452_146","National","Hispanic TV",54,452,146,NULL,NULL,NULL
+"453_146","National","Hispanic Radio",54,453,146,NULL,NULL,NULL
+"454_146","National","National Print",54,454,146,NULL,NULL,NULL
+"455_146","National","Cinema",54,455,146,NULL,NULL,NULL
+"456_146","National","Local Print",54,456,146,NULL,NULL,NULL
+"457_146","National","Dirent Mail",54,457,146,NULL,NULL,NULL
+"458_146","National","Hispanic Display",54,458,146,NULL,NULL,NULL
+"459_146","National","Search - Branded",54,459,146,NULL,NULL,NULL
+"460_146","National","Search - non Branded",54,460,146,NULL,NULL,NULL
+"461_146","National","Video",54,461,146,NULL,NULL,NULL
+"6_146","National","OOH",54,6,146,NULL,NULL,NULL

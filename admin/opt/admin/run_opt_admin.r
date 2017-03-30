@@ -20,7 +20,7 @@ main.path="C:\\Users\\soh1\\Box Sync\\nViz\\How to update optimizer\\opt-master\
 season.var=0.1  # from 0 to 1
 
 
-if (db.usage) conn <- dbConnect(MySQL(),user=username, password=password,dbname=db.name, host=db.server)
+if (db.usage) conn <- dbConnect(MySQL(), user=username, password=password,dbname=db.name, host=db.server)
 source(paste(main.path,"adm_main.r",sep=""),local=T)
 if (db.usage) dbDisconnect(conn)
 
